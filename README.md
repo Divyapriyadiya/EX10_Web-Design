@@ -19,7 +19,8 @@
 
 
 ## OUTPUT
-![EX 10](https://github.com/Divyapriyadiya/EX10_Web-Design/assets/128477941/3a167a17-901c-4ee1-b11b-fa5f1c1f0fae)
+![EX 10](https://github.com/Divyapriyadiya/EX10_Web-Design/assets/128477941/adfd5915-4923-4c17-8c29-4c537311d693)
+
 
 
 ## RESULT
